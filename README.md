@@ -2,13 +2,13 @@
 Computer Graphics - Lab assignments 
 
 ## 1. Write a program to:
-* [Create empty window (Black, White and different Colors)](https://www.google.com "empty window")
-* [Draw a point of width 10 pixel](https://www.google.com "Draw a point")
-* [Draw a green color line from (10,10) to (50,50)](https://www.google.com "line")
-* [Draw a triangle on black background](https://www.google.com "triangle on black background")
-* [Draw a rectangle on black background](https://www.google.com "rectangle on black background")
+* [Create empty window (Black, White and different Colors)](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA1/Create%20empty%20window.cpp"empty window")
+* [Draw a point of width 10 pixel](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA1/Draw%20a%20point.cpp "Draw a point")
+* [Draw a green color line from (10,10) to (50,50)](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA1/green%20color%20line.cpp "line")
+* [Draw a triangle on black background](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA1/triangle.cpp "triangle on black background")
+* [Draw a rectangle on black background](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA1/rectangle.cpp "rectangle on black background")
 ## 2. Write a program to draw a line using:
-* [DDA algorithm](https://www.google.com "DDA algorithm")
+* [DDA algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA2/DDA.cpp "DDA algorithm")
 * [Bresenham’s line algorithm](https://www.google.com "Bresenham’s line algorithm")
 ## 3. Write a program to:
 * [Draw a circle using Midpoint circle algorithm](https://www.google.com "Midpoint circle")
