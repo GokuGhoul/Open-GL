@@ -9,7 +9,7 @@ Computer Graphics - Lab assignments
 * [Draw a rectangle on black background](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA1/rectangle.cpp "rectangle on black background")
 ## 2. Write a program to draw a line using:
 * [DDA algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA2/DDA.cpp "DDA algorithm")
-* [Bresenham’s line algorithm](https://www.google.com "Bresenham’s line algorithm")
+* [Bresenham’s line algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA2/Bresenham’s.cpp "Bresenham’s line algorithm")
 ## 3. Write a program to:
 * [Draw a circle using Midpoint circle algorithm](https://www.google.com "Midpoint circle")
 * [Draw an ellipse using Midpoint ellipse algorithm](https://www.google.com "Midpoint ellipse")
