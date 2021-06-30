@@ -11,10 +11,10 @@ Computer Graphics - Lab assignments
 * [DDA algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA2/DDA.cpp "DDA algorithm")
 * [Bresenham’s line algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA2/Bresenham’s.cpp "Bresenham’s line algorithm")
 ## 3. Write a program to:
-* [Draw a circle using Midpoint circle algorithm](https://www.google.com "Midpoint circle")
-* [Draw an ellipse using Midpoint ellipse algorithm](https://www.google.com "Midpoint ellipse")
-## 4. Write a program to [fill a polygon using scan line fill algorithm.](https://www.google.com "Scan Line Fill")
-## 5. Write a program to [fill a polygon using boundary fill and flood fill algorithm](https://www.google.com "Boundary Fill & Flood Fill") for various concave and convex polygons.
+* [Draw a circle using Midpoint circle algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA3/Midpoint%20circle.cpp "Midpoint circle")
+* [Draw an ellipse using Midpoint ellipse algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA3/Midpoint%20ellipse.cpp "Midpoint ellipse")
+## 4. Write a program to [fill a polygon using scan line fill algorithm.](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA4/Scan%20Line%20Fill.cpp "Scan Line Fill")
+## 5. Write a program to [fill a polygon using boundary fill and flood fill algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA5 "Boundary Fill & Flood Fill") for various concave and convex polygons.
 ## 6. Write a program for drawing the following simple two dimensional objects using certain graphic functions available for drawing lines,rectangles, polygons, ellipses & circles which generates pixel activation list.
 * [House](https://www.google.com "House") 
 * [Car](https://www.google.com "Car") 
