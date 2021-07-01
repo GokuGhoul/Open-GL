@@ -16,10 +16,10 @@ Computer Graphics - Lab assignments
 ## 4. Write a program to [fill a polygon using scan line fill algorithm.](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA4/Scan%20Line%20Fill.cpp "Scan Line Fill")
 ## 5. Write a program to [fill a polygon using boundary fill and flood fill algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA5 "Boundary Fill & Flood Fill") for various concave and convex polygons.
 ## 6. Write a program for drawing the following simple two dimensional objects using certain graphic functions available for drawing lines,rectangles, polygons, ellipses & circles which generates pixel activation list.
-* [House](https://www.google.com "House") 
-* [Car](https://www.google.com "Car") 
-* [Fish](https://www.google.com "Fish")  
-* [Man](https://www.google.com "Man") 
+* [House](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA6/House.cpp "House") 
+* [Car](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA6/Car.cpp "Car") 
+* [Fish](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA6/Fish.cpp "Fish")  
+* [Man](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA6/Man.cpp "Man") 
 ## 7. Write a program to perform basic 2D transformation (translation,rotation and scaling) [about origin](https://www.google.com "2D transformation about origin") and [about a fixed point](https://www.google.com "2D transformation about a fixed point") without using direct OpenGl functions for the transformations. 
 ## 8. Write a program to perform:
 * [Reflection about x-axis, y-axis and origin](https://www.google.com "Reflection")
