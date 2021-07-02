@@ -20,11 +20,11 @@ Computer Graphics - Lab assignments
 * [Car](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA6/Car.cpp "Car") 
 * [Fish](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA6/Fish.cpp "Fish")  
 * [Man](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA6/Man.cpp "Man") 
-## 7. Write a program to perform basic 2D transformation (translation,rotation and scaling) [about origin](https://www.google.com "2D transformation about origin") and [about a fixed point](https://www.google.com "2D transformation about a fixed point") without using direct OpenGl functions for the transformations. 
+## 7. Write a program to perform basic 2D transformation (translation,rotation and scaling) [about origin](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA7/2D-transformation-about-origin.cpp "2D transformation about origin") and [about a fixed point](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA7/2D-transformation-about-a-fixed-point.cpp "2D transformation about a fixed point") without using direct OpenGl functions for the transformations. 
 ## 8. Write a program to perform:
-* [Reflection about x-axis, y-axis and origin](https://www.google.com "Reflection")
-* [Shear about x-axis and y-axis](https://www.google.com "Shear")
-## 9. Write a program for performing the basic [transformations](https://www.google.com "3D transformation") such as translation, Scaling, Rotation for a given 3D object.
+* [Reflection about x-axis, y-axis and origin](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA8/Reflection.cpp "Reflection")
+* [Shear about x-axis and y-axis](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA8/Shear.cpp "Shear")
+## 9. Write a program for performing the basic [transformations](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA9/3D-transformation.cpp "3D transformation") such as translation, Scaling, Rotation for a given 3D object.
 ## 10. Write a program to clip a line using
 * [Liang Barsky Algorithm](https://www.google.com "Liang Barsky Algorithm") 
 * [Cohen Sutherland](https://www.google.com "Cohen Sutherland")
