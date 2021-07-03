@@ -26,11 +26,11 @@ Computer Graphics - Lab assignments
 * [Shear about x-axis and y-axis](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA8/Shear.cpp "Shear")
 ## 9. Write a program for performing the basic [transformations](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA9/3D-transformation.cpp "3D transformation") such as translation, Scaling, Rotation for a given 3D object.
 ## 10. Write a program to clip a line using
-* [Liang Barsky Algorithm](https://www.google.com "Liang Barsky Algorithm") 
-* [Cohen Sutherland](https://www.google.com "Cohen Sutherland")
-* [Nicholl-Lee-Nicholl Line clipping](https://www.google.com "Nicholl-Lee-Nicholl Line") 
+* [Liang Barsky Algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA10/Liang%20Barsky%20Algorithm.cpp "Liang Barsky Algorithm") 
+* [Cohen Sutherland](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA10/Cohen%20Sutherland.cpp "Cohen Sutherland")
+* [Nicholl-Lee-Nicholl Line clipping](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA10/Nicholl-Lee-Nicholl.cpp "Nicholl-Lee-Nicholl") 
 ## 11. Write a program to clip a polygon using 
-* [Sutherland Hodgeman](https://www.google.com "Sutherland Hodgeman") 
+* [Sutherland Hodgeman](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA11/Sutherland%20Hodgeman.cpp "Sutherland Hodgeman") 
 * [Weiler Atherton algorithm](https://www.google.com "Weiler Atherton algorithm") 
 ## 12. Write programs for designing following simple animations using transformations.
 * [Circle moving from left to right and vice versa](https://www.google.com "Circle") 
