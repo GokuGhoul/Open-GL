@@ -31,8 +31,8 @@ Computer Graphics - Lab assignments
 * [Nicholl-Lee-Nicholl Line clipping](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA10/Nicholl-Lee-Nicholl.cpp "Nicholl-Lee-Nicholl") 
 ## 11. Write a program to clip a polygon using 
 * [Sutherland Hodgeman](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA11/Sutherland%20Hodgeman.cpp "Sutherland Hodgeman") 
-* [Weiler Atherton algorithm](https://www.google.com "Weiler Atherton algorithm") 
+* [Weiler Atherton algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA11/Weiler%20Atherton.cpp "Weiler Atherton algorithm") 
 ## 12. Write programs for designing following simple animations using transformations.
-* [Circle moving from left to right and vice versa](https://www.google.com "Circle") 
-* [Wind mill rotation](https://www.google.com "Wind mill") 
-* [Simple animation of football goal](https://www.google.com "football goal") 
+* [Circle moving from left to right and vice versa](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA12/Circle.cpp "Circle") 
+* [Wind mill rotation](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA12/Wind mill.cpp "Wind mill") 
+* [Simple animation of football goal](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA12/football goal.cpp "football goal") 
