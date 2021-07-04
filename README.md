@@ -34,5 +34,5 @@ Computer Graphics - Lab assignments
 * [Weiler Atherton algorithm](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA11/Weiler%20Atherton.cpp "Weiler Atherton algorithm") 
 ## 12. Write programs for designing following simple animations using transformations.
 * [Circle moving from left to right and vice versa](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA12/Circle.cpp "Circle") 
-* [Wind mill rotation](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA12/Wind mill.cpp "Wind mill") 
-* [Simple animation of football goal](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA12/football goal.cpp "football goal") 
+* [Wind mill rotation](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA12/Wind%20mill.cpp "Wind mill") 
+* [Simple animation of football goal](https://github.com/GokuGhoul/Open-GL/blob/main/Codes/LA12/football%20goal.cpp "football goal") 
