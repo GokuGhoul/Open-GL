@@ -1,4 +1,4 @@
-#Weiler Atherton algorithm
+//Weiler Atherton algorithm
 #include <iostream>
 #include <GL/glut.h>
 #define Size 600
